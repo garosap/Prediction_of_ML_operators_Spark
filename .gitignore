@@ -1,0 +1,12 @@
+__pycache__/
+*.txt
+*.out
+*.libsvm
+*.meta
+# Ignore all CSV files
+*.csv
+
+# Except for these three files
+!kmeans.csv
+!random_forest.csv
+!word2vec.csv
