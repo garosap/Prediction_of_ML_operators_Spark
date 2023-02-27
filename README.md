@@ -2,6 +2,8 @@
 
 This repository contains the code and documentation for the semester project in the course of design and analysis of information systems for the 9th semester in NTUA. The goal of this project is to develop a machine learning model that can accurately predict the performance of different operators in big data analytics runtimes.
 
+[Project Paper](/Paper_Prediction_of_ML_Operator_Performance.pdf)
+
 ## Introduction
 
 Machine Learning operators executed in big data analytics runtimes (e.g., Apache Spark) are often complex code that requires a significant amount of time to complete over data of large volume. In this project, we collected multiple measurements of how the execution of different operators progresses over time and used learning algorithms to create models that can predict their performance without even executing them.
