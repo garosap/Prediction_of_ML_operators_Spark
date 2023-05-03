@@ -1,6 +1,9 @@
 # Prediction of ML Operator Performance
 
-This repository contains the code and documentation for the semester project in the course of design and analysis of information systems for the 9th semester in NTUA. The goal of this project is to develop a machine learning model that can accurately predict the performance of different operators in big data analytics runtimes.
+The objective of this project was to develop a machine learning model capable of forecasting the efficiency of different Apache Spark MLlib operators when executed on a cluster of multiple nodes.
+
+We gathered a large dataset of time and memory metrics from various executions of operators and utilized it to train machine learning models capable of predicting these metrics without actually executing the operators.
+
 
 [Project Paper](/Paper_Prediction_of_ML_Operator_Performance.pdf)
 
