@@ -38,6 +38,6 @@ By following these steps, you can run experiments with different operators and i
 ## Contributors
 - Apostolis Garos: https://github.com/ApostolisGaros
 - Nikos Vlachakis: https://github.com/NikosVlachakis
-- Georgios Angelis: https://github.com/ag-george
+- Georgios Angelis: https://github.com/GeorgeAngelis
 
 
